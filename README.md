@@ -6,7 +6,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Yashu Youwaraj
 
-_Building reliable products from UI to scalable backend systems_
+_Turning complex requirements into clean, reliable software_
 
 <!--Start Intro-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
