@@ -138,16 +138,28 @@ _Building reliable products from UI to scalable backend systems_
 
 <!--Github stats Table-->
 <h2 align="center">📊 GitHub Stats</h2> 
-<table width="100%"> <tr> <td width="50%"> 
-<h3 align="center"><strong>GitHub Stats</strong></h3> 
-<p align="center">
- <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" /> </p> </td> <td width="50%">
-  <h3 align="center"><strong>Top Languages</strong></h3> <p align="center"> 
-  <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark" alt="Top Languages" /> 
-  </p>
-   </td>
+<table width="100%">
+    <tr>
+        <td width="50%"> 
+            <h3 align="center"><strong>GitHub Stats</strong></h3> 
+            <p align="center">
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
+            </p>
+        </td>
+        <td width="50%">
+            <h3 align="center"><strong>Top Languages</strong></h3>
+            <p align="center"> 
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=tokyonight" alt="Top Languages" /> 
+            </p>
+        </td>
+        <td width="50%">
+            <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+            <p align="center"> 
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashuyouwaraj&theme=tokyonight" alt="Top Languages" /> 
+            </p>
+        </td>
     </tr>
-     </table>
+</table>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph</h2>
