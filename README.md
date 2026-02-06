@@ -134,10 +134,10 @@ I'm a Full Stack Developer with a strong interest in backend and system-oriented
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=github_dark&include_all_commits=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark&langs_count=8&cache_seconds=1800&v=1" alt="Top Languages" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark&langs_count=8&hide_border=true&cache_seconds=86400&v=2" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -145,7 +145,7 @@ I'm a Full Stack Developer with a strong interest in backend and system-oriented
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashuyouwaraj&bg_color=220a28&color=ffffff&line=ff006e&point=fbbf24&area=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashuyouwaraj&bg_color=220a28&color=ffffff&line=ff006e&point=fbbf24&area=false&hide_border=false" border-radius="15" />
 </div>
 
 ---
