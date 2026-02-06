@@ -1,25 +1,15 @@
 <div align="center">
   <img src="./images/banner.png" alt="Coder GIF" style="border-radius: 10px; animation: glow 3s ease-in-out infinite;" />
 </div>
-
-<style>
-  @keyframes glow {
-    0%, 100% {
-      box-shadow: 0 0 10px rgba(255, 100, 150, 0.5);
-      transform: scale(1);
-    }
-    50% {
-      box-shadow: 0 0 30px rgba(255, 100, 150, 0.8);
-      transform: scale(1.02);
-    }
-  }
-</style>
-
 ---
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
 I'm a passionate developer focused on building scalable web applications. I love exploring new technologies and solving complex problems. I'm a postdoctoral learner who's always willing to learn and work across technologies and domains. I love to guide and mentor newbies 🙌. I'm currently into Web Development 🌐 and working on my Data Structures and Algorithms skills 📊.
+
+</div>
 
 - 🔭 **Currently working on:** Full Stack web projects
 - 🌱 **Learning:** Advanced Data Structures & Algorithms
