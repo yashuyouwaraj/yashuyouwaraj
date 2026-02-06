@@ -143,13 +143,13 @@ _Building reliable products from UI to scalable backend systems_
         <td width="50%"> 
             <h3 align="center"><strong>GitHub Stats</strong></h3> 
             <p align="center">
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true" alt="GitHub Stats" />
             </p>
         </td>
         <td width="50%">
             <h3 align="center"><strong>Top Languages</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=tokyonight" alt="Top Languages" /> 
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=nightowl" alt="Top Languages" /> 
             </p>
         </td>
     </tr>
@@ -157,13 +157,13 @@ _Building reliable products from UI to scalable backend systems_
         <td width="50%">
             <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=yashuyouwaraj&theme=tokyonight&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Sᴛʀᴇᴀᴋ Sᴛᴀᴛs" /> 
+                <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=yashuyouwaraj&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Sᴛʀᴇᴀᴋ Sᴛᴀᴛs" /> 
             </p>
         </td>
         <td width="50%">
-            <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+            <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashuyouwaraj&repo=storyblok-mcp-server&theme=tokyonight" alt="Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ" /> 
+                <img align="center" src="https://github-contributor-stats.vercel.app/api?username=yashuyouwaraj&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs" /> 
             </p>
         </td>
     </tr>
