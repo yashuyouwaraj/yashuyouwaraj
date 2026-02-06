@@ -1,16 +1,27 @@
 <!--Banner-->
 ![Yashu Youwaraj Banner Image](./images/banner.png)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="35%" src="./reference/NightOwlimage.png" alt="Night Owl">
-</div>
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Yashu Youwaraj  
 *Building reliable products from UI to scalable backend systems*
 
-<!--Start Intro-->               
+<!--Start Intro--> 
+<div>
+<p align="left">
+I'm a Full Stack Developer with a strong interest in backend and system-oriented development. I enjoy building scalable web applications, designing clean REST APIs, and working across the stack. I continuously improve my skills in Data Structures, Algorithms, and modern web technologies while focusing on writing clean, maintainable code.
+</p>
+
+- 💻 Full Stack Developer (Backend-focused)
+- 🌱 Continuous learner with a strong engineering mindset
+- 🤝 Open to collaboration and open-source contributions
+- 🧠 Actively improving DSA and system design fundamentals
+- ✍️ Sharing knowledge through technical content and mentorship
+- 💻 Visit 
+<!--Night Owl image-->
+
+  <img align="right" width="35%" src="./reference/NightOwlimage.png" alt="Night Owl">
+
+</div>              
 <p align="left">
 I'm a Full Stack Developer with a strong interest in backend and system-oriented development. I enjoy building scalable web applications, designing clean REST APIs, and working across the stack. I continuously improve my skills in Data Structures, Algorithms, and modern web technologies while focusing on writing clean, maintainable code.
 </p>
