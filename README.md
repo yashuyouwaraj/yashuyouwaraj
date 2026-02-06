@@ -163,7 +163,7 @@ _Building reliable products from UI to scalable backend systems_
         <td width="50%">
             <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yashuyouwaraj&repo=storyblok-mcp-server&theme=tokyonight&show_owner=true" alt="Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ" /> 
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashuyouwaraj&repo=storyblok-mcp-server&theme=tokyonight" alt="Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ" /> 
             </p>
         </td>
     </tr>
