@@ -9,7 +9,7 @@
 _Building reliable products from UI to scalable backend systems_
 
 <!--Start Intro-->
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="60%" valign="top">
       <p align="left">
