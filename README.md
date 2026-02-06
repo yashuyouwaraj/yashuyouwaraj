@@ -1,87 +1,160 @@
-<div align="center">
-  <img src="./images/banner.png" alt="Coder GIF" style="border-radius: 10px; animation: glow 3s ease-in-out infinite;" />
-</div>
----
+<!--Banner-->
+![Yashu Youwaraj Banner Image](./images/banner.png)
 
-<div align="center">
-
-## 👨‍💻 About Me
-
-I'm a passionate developer focused on building scalable web applications. I love exploring new technologies and solving complex problems. I'm a postdoctoral learner who's always willing to learn and work across technologies and domains. I love to guide and mentor newbies 🙌. I'm currently into Web Development 🌐 and working on my Data Structures and Algorithms skills 📊.
-
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-- 🔭 **Currently working on:** Full Stack web projects
-- 🌱 **Learning:** Advanced Data Structures & Algorithms
-- 👯 **Looking to collaborate on:** Open Source Projects
-- 💬 **Ask me about:** Web Development, JavaScript, React
-- 📫 **How to reach me:** [Email](mailto:your-email@gmail.com)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love to explore new technologies!
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Yᴀsʜᴜ Yᴏᴜᴡᴀʀᴀᴊ! 
+*Building products from UI to scalable systems*
+<br />
+*Frontend & Backend Developer*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I'm a Full Stack Developer passionate about building scalable web applications and solving complex problems. I'm a postdoctoral learner who's always willing to learn and work across technologies and domains 💪. I love to guide and mentor newbies 🙌. I'm currently into Web Development 🌐 and working on my Data Structures and Algorithms skills 📊.</p>
+
+- ✨ Passionate Developer :)
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Open Source Contributor
+- 🏙 Mentor and Guide for beginners
+- ✍ I write technical content and share knowledge
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://yashuyouwaraj.vercel.app) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yashuyouwaraj&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="yashuyouwaraj" style="padding-right:20px;" />
+</p>
 
 ---
 
-## 🛠️ Technology Stack
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Full Stack Development and System Design.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Mastering Data Structures and Algorithms.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="#">🔥 Building Scalable Web Applications - Best Practices 🚀</a></li>
+  <li><a href="#">🔥 Mastering React Hooks: Advanced Patterns 📚</a></li>
+  <li><a href="#">Full Stack Development Journey: Tips & Tricks 💡</a></li>
+</ul>
+<br />
+<br />
+<br />
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/yashuyouwaraj">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=yashuyouwaraj&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20" />
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/yashuyouwaraj">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=radical&bg_color=0,000000,220a28&title_color=ff006e&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/yashuyouwaraj">
+          <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=yashuyouwaraj&theme=radical&background=0,000000,220a28&fire=ff006e&ring=ff006e&sideNums=ffffff&sideLabels=ffffff&dates=ff006e&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/yashuyouwaraj">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=radical&bg_color=0,000000,220a28&title_color=ff006e&text_color=ffffff" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/yashuyouwaraj">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashuyouwaraj&show_icons=true&count_private=true&theme=radical&bg_color=0,000000,220a28&title_color=ff006e&text_color=ffffff&rank_icon=github&hide=prs" alt="More Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashuyouwaraj&bg_color=220a28&color=ffffff&line=ff006e&point=fbbf24&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
 
-## 🎯 Highlights
-
-- 🏆 **Developer Program Member**
-- 💎 Pro Member
-- 🌟 Active Open Source Contributor
-- 🚀 Full Stack Developer
-
----
-
-## � Reach Me Out On
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashu-youwaraj/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yashuyouwaraj)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashuyouwaraj123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashuyouwaraj.vercel.app/)
-
-</div>
-
----
-
-## 🐍 My Contribution Graph
-
+<!--Snake contribution graph-->
+<h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ 🐍</h2>
 <div align="center">
   <img src="https://github.com/yashuyouwaraj/yashuyouwaraj/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 ---
 
-## �📊 GitHub Stats
+<!--Contact Section--> 
 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&langs_count=7&theme=radical" />
+  
+<a href="mailto:yashuyouwaraj123@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="yashuyouwaraj123@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/yashu-youwaraj/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/yashuyouwaraj" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="yashuyouwaraj" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://leetcode.com/yashuyouwaraj" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://yashuyouwaraj.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashuyouwaraj&color=blueviolet" alt="Profile Views" />
-</div>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
