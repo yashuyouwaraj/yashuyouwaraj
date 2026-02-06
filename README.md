@@ -1,8 +1,5 @@
-# Hi, I'm Yashu Youwaraj 👋
-### A Full Stack Developer in Making
-
 <div align="center">
-  <img src="./images/banner.png" alt="Coder GIF" width="500" height="320" />
+  <img src="./images/banner.png" alt="Coder GIF" />
 </div>
 
 ---
