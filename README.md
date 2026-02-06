@@ -31,6 +31,12 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">🛠️ Tech Stack</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./reference/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./reference/Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./reference/Skills_Animation_White.gif">
+</picture>
+<br />
 
 <details>
 <summary><h3>💻 Languages</h3></summary>
@@ -133,15 +139,24 @@
 <br />
 
 <!--Github stats Table--> 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Top Languages</strong></h3>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark" alt="Top Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -199,3 +214,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
