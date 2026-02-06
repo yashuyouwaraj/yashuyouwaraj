@@ -2,7 +2,7 @@
 ### A Full Stack Developer in Making
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxoMyqNEsqT/giphy.gif" alt="Coder GIF" width="500" height="320" />
+  <img src="./images/banner.png" alt="Coder GIF" width="500" height="320" />
 </div>
 
 ---
