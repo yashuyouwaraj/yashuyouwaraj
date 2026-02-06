@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="35%" src="./reference/NightOwlimage.png">
+  <img align="right" width="40%" src="../yashuyouwaraj/reference/NightOwlimage.png">
 </div>
 
 <!--Header Name-->
@@ -30,8 +30,6 @@ I'm a Full Stack Developer with a strong interest in backend and system-oriented
 </p>
 
 ---
-
-<br clear="right" />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">🛠️ Tech Stack</h2>
