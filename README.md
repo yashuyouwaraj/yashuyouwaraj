@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="../yashuyouwaraj/reference/NightOwlimage.png">
+  <img align="right" width="40%" src="./reference/NightOwlimage.png">
 </div>
 
 <!--Header Name-->
@@ -132,10 +132,10 @@ I'm a Full Stack Developer with a strong interest in backend and system-oriented
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=github_dark&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=github_dark&include_all_commits=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark" />
     </td>
   </tr>
 </table>
