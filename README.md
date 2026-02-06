@@ -1,37 +1,34 @@
 <!--Banner-->
+
 ![Yashu Youwaraj Banner Image](./images/banner.png)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Yashu Youwaraj  
-*Building reliable products from UI to scalable backend systems*
 
-<!--Start Intro--> 
-<div>
-<p align="left">
-I'm a Full Stack Developer with a strong interest in backend and system-oriented development. I enjoy building scalable web applications, designing clean REST APIs, and working across the stack. I continuously improve my skills in Data Structures, Algorithms, and modern web technologies while focusing on writing clean, maintainable code.
-</p>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Yashu Youwaraj
 
-- 💻 Full Stack Developer (Backend-focused)
-- 🌱 Continuous learner with a strong engineering mindset
-- 🤝 Open to collaboration and open-source contributions
-- 🧠 Actively improving DSA and system design fundamentals
-- ✍️ Sharing knowledge through technical content and mentorship
-- 💻 Visit 
-<!--Night Owl image-->
+_Building reliable products from UI to scalable backend systems_
 
-  <img align="right" width="35%" src="./reference/NightOwlimage.png" alt="Night Owl">
-
-</div>              
-<p align="left">
-I'm a Full Stack Developer with a strong interest in backend and system-oriented development. I enjoy building scalable web applications, designing clean REST APIs, and working across the stack. I continuously improve my skills in Data Structures, Algorithms, and modern web technologies while focusing on writing clean, maintainable code.
-</p>
-
-- 💻 Full Stack Developer (Backend-focused)
-- 🌱 Continuous learner with a strong engineering mindset
-- 🤝 Open to collaboration and open-source contributions
-- 🧠 Actively improving DSA and system design fundamentals
-- ✍️ Sharing knowledge through technical content and mentorship
-- 💻 Visit my <a href="https://yashuyouwaraj.vercel.app" target="_blank">Portfolio</a> for more details
+<!--Start Intro-->
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p align="left">
+        I'm a Full Stack Developer with a strong interest in backend and system-oriented development. I enjoy building scalable web applications, designing clean REST APIs, and working across the stack. I continuously improve my skills in Data Structures, Algorithms, and modern web technologies while focusing on writing clean, maintainable code.
+      </p>
+      <ul align="left">
+        <li>💻 Full Stack Developer (Backend-focused)</li>
+        <li>🌱 Continuous learner with a strong engineering mindset</li>
+        <li>🤝 Open to collaboration and open-source contributions</li>
+        <li>🧠 Actively improving DSA and system design fundamentals</li>
+        <li>✍️ Sharing knowledge through technical content and mentorship</li>
+        <li>💻 Visit my <a href="https://yashuyouwaraj.vercel.app" target="_blank">Portfolio</a> for more details</li>
+      </ul>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img width="90%" src="./reference/NightOwlimage.png" alt="Night Owl">
+    </td>
+  </tr>
+</table>
 
 <!--End Intro-->
 
@@ -44,7 +41,7 @@ I'm a Full Stack Developer with a strong interest in backend and system-oriented
 
 <br clear="right" />
 
-<!--Languages and Tools Section-->       
+<!--Languages and Tools Section-->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <picture>
@@ -139,19 +136,18 @@ I'm a Full Stack Developer with a strong interest in backend and system-oriented
   <li>Strengthening Data Structures & Algorithms</li>
 </ul>
 
-<!--Github stats Table--> 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark&langs_count=8&hide_border=true&cache_seconds=86400&v=2" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<!--Github stats Table-->
+<h2 align="center">📊 GitHub Stats</h2> 
+<table width="100%"> <tr> <td width="50%"> 
+<h3 align="center"><strong>GitHub Stats</strong></h3> 
+<p align="center">
+ <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" /> </p> </td> <td width="50%">
+  <h3 align="center"><strong>Top Languages</strong></h3> <p align="center"> 
+  <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=github_dark" alt="Top Languages" /> 
+  </p>
+   </td>
+    </tr>
+     </table>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph</h2>
