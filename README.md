@@ -9,9 +9,8 @@
 _Building reliable products from UI to scalable backend systems_
 
 <!--Start Intro-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="top">
+  <div>
+    <div width="60%" valign="top">
       <p align="left">
         I'm a Full Stack Developer with a strong interest in backend and system-oriented development. I enjoy building scalable web applications, designing clean REST APIs, and working across the stack. I continuously improve my skills in Data Structures, Algorithms, and modern web technologies while focusing on writing clean, maintainable code.
       </p>
@@ -23,12 +22,11 @@ _Building reliable products from UI to scalable backend systems_
         <li>✍️ Sharing knowledge through technical content and mentorship</li>
         <li>💻 Visit my <a href="https://yashuyouwaraj.vercel.app" target="_blank">Portfolio</a> for more details</li>
       </ul>
-    </td>
-    <td width="40%" align="right" valign="top">
+    </div>
+    <div width="40%" align="right" valign="top">
       <img width="90%" src="./reference/NightOwlimage.png" alt="Night Owl">
-    </td>
-  </tr>
-</table>
+    </div>
+  </did>
 
 <!--End Intro-->
 
