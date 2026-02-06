@@ -152,6 +152,8 @@ _Building reliable products from UI to scalable backend systems_
                 <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=tokyonight" alt="Top Languages" /> 
             </p>
         </td>
+    </tr>
+    <tr>
         <td width="50%">
             <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
             <p align="center"> 
