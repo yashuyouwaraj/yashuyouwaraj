@@ -157,14 +157,14 @@ _Building reliable products from UI to scalable backend systems_
 
 ---
 
-<!--Snake contribution graph-->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashuyouwaraj/yashuyouwaraj/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashuyouwaraj/yashuyouwaraj/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yashuyouwaraj/yashuyouwaraj/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<!--Thought of the Day-->
+<h2 align="center">✨ Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ ✨</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=fbbf24&accent_color=ff006e" alt="Daily Quote" />
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
