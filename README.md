@@ -143,13 +143,13 @@ _Turning complex requirements into clean, reliable software_
         <td width="50%"> 
             <h3 align="center"><strong>GitHub Stats</strong></h3> 
             <p align="center">
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&include_all_commits=true" alt="GitHub Stats" />
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
             </p>
         </td>
         <td width="50%">
             <h3 align="center"><strong>Top Languages</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=nightowl" alt="Top Languages" /> 
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="Top Languages" /> 
             </p>
         </td>
     </tr>
