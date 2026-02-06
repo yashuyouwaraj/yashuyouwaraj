@@ -143,7 +143,7 @@ _Building reliable products from UI to scalable backend systems_
         <td width="50%"> 
             <h3 align="center"><strong>GitHub Stats</strong></h3> 
             <p align="center">
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=yashuyouwaraj&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
             </p>
         </td>
         <td width="50%">
@@ -155,7 +155,7 @@ _Building reliable products from UI to scalable backend systems_
         <td width="50%">
             <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashuyouwaraj&theme=tokyonight" alt="Top Languages" /> 
+                <img align="center" src="https://github-readme-streak-stats-git-main-davidsa.vercel.app/?user=yashuyouwaraj&theme=tokyonight" alt="Top Languages" /> 
             </p>
         </td>
     </tr>
