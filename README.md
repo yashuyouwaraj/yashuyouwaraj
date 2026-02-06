@@ -155,7 +155,7 @@ _Building reliable products from UI to scalable backend systems_
         <td width="50%">
             <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=yashuyouwaraj&theme=tokyonight" alt="Top Languages" /> 
+                <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=yashuyouwaraj&theme=tokyonight&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Top Languages" /> 
             </p>
         </td>
     </tr>
