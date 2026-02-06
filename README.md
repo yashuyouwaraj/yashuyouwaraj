@@ -1,6 +1,19 @@
 <div align="center">
-  <img src="./images/banner.png" alt="Coder GIF" />
+  <img src="./images/banner.png" alt="Coder GIF" style="border-radius: 10px; animation: glow 3s ease-in-out infinite;" />
 </div>
+
+<style>
+  @keyframes glow {
+    0%, 100% {
+      box-shadow: 0 0 10px rgba(255, 100, 150, 0.5);
+      transform: scale(1);
+    }
+    50% {
+      box-shadow: 0 0 30px rgba(255, 100, 150, 0.8);
+      transform: scale(1.02);
+    }
+  }
+</style>
 
 ---
 
