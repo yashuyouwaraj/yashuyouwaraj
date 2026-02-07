@@ -29,7 +29,6 @@ _Turning complex requirements into clean, reliable software_
     </td>
   </tr>
 </table>
-
 <!--End Intro-->
 
 <!--Profile Count Badge-->
