@@ -162,7 +162,7 @@ _Turning complex requirements into clean, reliable software_
         <td width="50%">
             <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=yashuyouwaraj&repo=Real-Time-Stock-Market-App&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ"/> 
+                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=yashuyouwaraj&repo=Real-Time-Stock-Market-App&theme=nightowl&show_owner=true&description=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ"/> 
             </p>
         </td>
     </tr>
