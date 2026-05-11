@@ -121,23 +121,6 @@ _Turning complex requirements into clean, reliable software_
 </p>
 </details>
 
-<details>
-<summary><h3>🚀 Deployment & OS</h3></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-</details>
-
-<h3 align="left">📚 Current Focus</h3>
-<ul align="left">
-  <li>Building production-grade full stack applications</li>
-  <li>Designing scalable backend services and APIs</li>
-  <li>Strengthening Data Structures & Algorithms</li>
-</ul>
-
 <!--Github stats Table-->
 <h2 align="center">📊 GitHub Stats</h2> 
 <table width="100%">
