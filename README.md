@@ -4,7 +4,7 @@
 
 <!--Header Name-->
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Yashu Youwaraj
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=38&duration=3000&pause=1000&color=111112&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hi+👋,+I'm+Yashu+Youwaraj;Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Applications;Turning+Ideas+Into+Production+Systems" />
 
 _Turning complex requirements into clean, reliable software_
 
@@ -32,13 +32,17 @@ _Turning complex requirements into clean, reliable software_
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashuyouwaraj&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="yashuyouwaraj" style="padding-right:20px;" />
-</p>
+<div align="center">
 
----
+<a href="https://komarev.com/ghpvc/?username=yashuyouwaraj">
+<img src="https://komarev.com/ghpvc/?username=yashuyouwaraj&label=Profile%20Views&color=bb2acf&style=for-the-badge" />
+</a>
 
-<br clear="right" />
+<img src="https://img.shields.io/github/followers/yashuyouwaraj?style=for-the-badge&color=bb2acf&labelColor=1a1b27" />
+
+<img src="https://img.shields.io/github/stars/yashuyouwaraj?style=for-the-badge&color=bb2acf&labelColor=1a1b27" />
+
+</div>
 
 <!--Languages and Tools Section-->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -48,7 +52,6 @@ _Turning complex requirements into clean, reliable software_
   <source media="(prefers-color-scheme: light)" srcset="./reference/Skills_Animation_White.gif">
   <img align="left" alt="Skills Animation" src="./reference/Skills_Animation_White.gif">
 </picture>
-<br />
 
 <details>
 <summary><h3>💻 Languages</h3></summary>
@@ -142,14 +145,14 @@ _Turning complex requirements into clean, reliable software_
         <td width="50%"> 
             <h3 align="center"><strong>GitHub Stats</strong></h3> 
             <p align="center">
-                <img align="center" src="https://streak-stats.demolab.com?user=yashuyouwaraj&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+                <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=yashuyouwaraj&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
                   alt="GitHub Stats" />
             </p>
         </td>
         <td width="50%">
             <h3 align="center"><strong>Top Languages</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="Top Languages" /> 
+                <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashuyouwaraj&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="Top Languages" /> 
             </p>
         </td>
     </tr>
@@ -157,13 +160,13 @@ _Turning complex requirements into clean, reliable software_
         <td width="50%">
             <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=yashuyouwaraj&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Sᴛʀᴇᴀᴋ Sᴛᴀᴛs" /> 
+                <img align="center" src="https://streak-stats.demolab.com/?user=yashuyouwaraj&show_icons=true&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Sᴛʀᴇᴀᴋ Sᴛᴀᴛs" /> 
             </p>
         </td>
         <td width="50%">
             <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="center"> 
-                <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=yashuyouwaraj&repo=ChaosForge&theme=nightowl&show_owner=true&description=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ"/> 
+                <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yashuyouwaraj&repo=ChaosForge&theme=nightowl&show_owner=true&description=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ"/> 
             </p>
         </td>
     </tr>
@@ -175,7 +178,29 @@ _Turning complex requirements into clean, reliable software_
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashuyouwaraj&bg_color=220a28&color=ffffff&line=ff006e&point=fbbf24&area=false&hide_border=false" border-radius="15" />
 </div>
 
----
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=yashuyouwaraj&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"
+  />
+</p>
+
+<table>
+    <tr>
+        <td width="50%" style="border: 1px solid #ddd;">
+            <h3 align="center"><strong>Profile Summary</strong></h3>
+            <p align="center"> 
+                <img 
+                  align="center" 
+                  width="95%"
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashuyouwaraj&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+                  alt="yashuyouwaraj GitHub Profile Summary Card"
+                /> 
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 <!--Thought of the Day-->
 <h2 align="center">✨ Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ ✨</h2>
@@ -186,7 +211,6 @@ _Turning complex requirements into clean, reliable software_
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 <div align="center">
