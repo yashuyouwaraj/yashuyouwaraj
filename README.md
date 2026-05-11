@@ -193,7 +193,6 @@ _Turning complex requirements into clean, reliable software_
 
 <h2 align="center">🤝 Connect With Me</h2>
 <div align="center">
-
 <a href="mailto:yashuyouwaraj123@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -209,9 +208,7 @@ _Turning complex requirements into clean, reliable software_
 <a href="https://yashuyouwaraj.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 </div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
