@@ -15,7 +15,7 @@
 
 _Turning complex requirements into clean, reliable software_
 
----
+
 
 <!--Start Intro-->
 
@@ -46,8 +46,6 @@ _Turning complex requirements into clean, reliable software_
 
 <!--End Intro-->
 
----
-
 <!--Profile Count Badge-->
 
 <p align="left">
@@ -57,7 +55,7 @@ _Turning complex requirements into clean, reliable software_
   />
 </p>
 
----
+
 
 <!--Languages and Tools Section-->
 
@@ -163,7 +161,7 @@ _Turning complex requirements into clean, reliable software_
 
 </details>
 
----
+
 
 <h3 align="left">📚 Current Focus</h3>
 
@@ -173,7 +171,7 @@ _Turning complex requirements into clean, reliable software_
   <li>Strengthening Data Structures & Algorithms</li>
 </ul>
 
----
+
 
 <!--Github stats Table-->
 
@@ -229,7 +227,7 @@ _Turning complex requirements into clean, reliable software_
     </tr>
 </table>
 
----
+
 
 <!--Contribution Graph-->
 
@@ -242,7 +240,7 @@ _Turning complex requirements into clean, reliable software_
   />
 </div>
 
----
+
 
 <!--Trophies-->
 
@@ -254,7 +252,7 @@ _Turning complex requirements into clean, reliable software_
   />
 </p>
 
----
+
 
 <!--Thought of the Day-->
 
@@ -267,7 +265,7 @@ _Turning complex requirements into clean, reliable software_
   />
 </p>
 
----
+
 
 <!--Connect-->
 
@@ -293,7 +291,7 @@ _Turning complex requirements into clean, reliable software_
 
 </div>
 
----
+
 
 <!--Footer-->
 
