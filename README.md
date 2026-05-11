@@ -185,21 +185,17 @@ _Turning complex requirements into clean, reliable software_
   />
 </p>
 
-<table>
-    <tr>
-        <td width="50%" style="border: 1px solid #ddd;">
-            <h3 align="center"><strong>Profile Summary</strong></h3>
-            <p align="center"> 
-                <img 
-                  align="center" 
-                  width="95%"
-                  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashuyouwaraj&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
-                  alt="yashuyouwaraj GitHub Profile Summary Card"
-                /> 
-            </p>
-        </td>
-    </tr>
-</table>
+<div align="center">
+
+<h3><strong>Profile Summary</strong></h3>
+
+<img 
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashuyouwaraj&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+  alt="yashuyouwaraj GitHub Profile Summary Card"
+/>
+
+</div>
 
 
 <!--Thought of the Day-->
