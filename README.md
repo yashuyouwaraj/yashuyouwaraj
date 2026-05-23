@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hi+👋,+I'm+Yashu+Youwaraj;Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Applications;Turning+Ideas+Into+Production+Systems" />
 
-_Turning complex requirements into clean, reliable software_
-
 <!--Start Intro-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
