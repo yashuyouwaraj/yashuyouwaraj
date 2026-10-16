@@ -156,13 +156,13 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashuyouwaraj&bg_color=220a28&color=ffffff&line=ff006e&point=fbbf24&area=false&hide_border=false" border-radius="15" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=yashuyouwaraj&bg_color=220a28&color=ffffff&line=ff006e&point=fbbf24&area=false&hide_border=false" />
 </div>
 
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=yashuyouwaraj&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"
+    src="https://trophy.ryglcloud.net/?username=yashuyouwaraj&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"
   />
 </p>
 
